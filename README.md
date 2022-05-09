@@ -11,7 +11,7 @@ namespace README
 		 			   I’m interested in Unity, Blender and Minecraft..(Sand box)
     	 			 I’m currently learning C#
         		 I’m looking to collaborate with Coffe stain
-       		 	 U can reach me with my gmai(dmitry.klimov.dk@g,ail.com)
+       		 	 U can reach me with my gmai(nothing...	)
 				 */
 				 Console.WriteLine("U+1F36A	\('.')\);
 				}
